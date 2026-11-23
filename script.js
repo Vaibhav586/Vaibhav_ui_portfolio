@@ -290,7 +290,14 @@ let lastFocusedProject = null;
 
 projectCards.forEach((card) => {
 
-  card.addEventListener('click', () => {
+  card.addEventListener('click', (event) => {
+
+    // If arrow with external link was clicked, open it and skip dialog
+    const arrow = event.target.closest('.project-arrow[data-href]');
+    if (arrow) {
+      window.open(arrow.dataset.href, '_blank', 'noreferrer');
+      return;
+    }
 
     const project =
       projectDetails[card.dataset.project];
