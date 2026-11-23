@@ -61,9 +61,9 @@ const projectDetails = {
     summary: 'A social media creative designed for SRMIST Milan — part of a series of event promotion posts for the cultural fest. Office Gana uses a structured editorial layout to present the event with clarity and visual consistency.',
     objective: 'Create a post that fits within the broader Milan content series while giving the Office Gana event its own distinct visual moment — clear hierarchy, immediate readability and brand alignment with SRMIST.',
     approach: 'Portrait 1080×1350 format. Structured grid-based layout with a clear content hierarchy: event name, category label and supporting detail. Palette and typographic choices kept consistent with the Milan series visual language for a cohesive feed appearance.',
-    links: [{ label: 'View on Instagram ↗', href: 'https://www.instagram.com/p/DAIpvkiNEsc/?img_index=1' }],
+    links: [{ label: 'View poster ↗', href: 'https://www.instagram.com/p/DAIpvkiNEsc/?img_index=1' }],
     real: true
-  },
+  }
 
 };
 
