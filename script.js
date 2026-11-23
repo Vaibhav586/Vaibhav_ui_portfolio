@@ -33,7 +33,7 @@ const projectDetails = {
     summary: 'An Instagram carousel/thread post designed for social media. Clean editorial layout with strong typographic hierarchy built for engagement and shareability on Instagram.',
     objective: 'Design a multi-slide Instagram post that communicates the message clearly across each frame, maintains visual consistency throughout the series and encourages users to swipe through to the end.',
     approach: 'Portrait 1080×1350 format. Consistent layout system across slides with a clear reading hierarchy — headline, supporting copy and visual element. Colour and type kept uniform across the series for a cohesive feed presence.',
-    links: [{ label: 'View on Instagram ↗', href: 'https://www.instagram.com/p/DeJfhk-k7co/?img_index=1' }],
+    links: [{ label: 'View on Instagram ↗', href: 'https://www.instagram.com/p/DeRjuxHE6O_/?hvrq=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==' }],
     real: true
   },
 
@@ -44,7 +44,7 @@ const projectDetails = {
     summary: 'An Instagram social media creative designed for engagement and visual impact on the feed.',
     objective: 'Create a visually compelling post that communicates the message clearly and stops the scroll on a busy Instagram feed.',
     approach: 'Bold composition with strong typographic hierarchy and a consistent colour palette. Designed for portrait format at 1544×1392 for maximum feed presence.',
-    links: [{ label: 'View on SRMIST ↗', href: 'https://www.srmist.edu.in/wp-content/uploads/2026/02/viola-Large.png' }],
+    links: [{ label: 'View on Instagram ↗', href: 'https://www.instagram.com/p/CwztojtPZJr/?avpt=MzRlODBiNWFlZA==' }],
     real: true
   },
 
@@ -66,7 +66,7 @@ const projectDetails = {
     summary: 'A social media creative designed for SRMIST Milan — part of a series of event promotion posts for the cultural fest. Office Gana uses a structured editorial layout to present the event with clarity and visual consistency.',
     objective: 'Create a post that fits within the broader Milan content series while giving the Office Gana event its own distinct visual moment — clear hierarchy, immediate readability and brand alignment with SRMIST.',
     approach: 'Portrait 1080×1350 format. Structured grid-based layout with a clear content hierarchy: event name, category label and supporting detail. Palette and typographic choices kept consistent with the Milan series visual language for a cohesive feed appearance.',
-    links: [{ label: 'View poster ↗', href: 'https://www.instagram.com/p/DAIpvkiNEsc/?img_index=1' }],
+    links: [{ label: 'View poster ↗', href: 'https://www.srmist.edu.in/wp-content/uploads/2026/02/Office-Gana-Large.png' }],
     real: true
   }
 
