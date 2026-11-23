@@ -55,7 +55,12 @@ const projectDetails = {
     summary: 'A social media creative designed for SRMIST Milan — the annual cultural fest of SRM Institute of Science and Technology. Viola is a bold, typographically-led poster built for Instagram feed and story placements.',
     objective: 'Design a visually striking social media post that captures the energy and identity of the Milan cultural fest, communicates the event name instantly and stops the scroll on a busy Instagram feed.',
     approach: 'Portrait 1080×1350 format optimised for Instagram. Strong central typography as the hero element, minimal supporting copy, high-contrast colour palette. Composition designed to read clearly at thumbnail size and hold detail at full view.',
-    links: [{ label: 'View poster ↗', href: 'https://www.srmist.edu.in/wp-content/uploads/2026/02/viola-Large.png' }], {
+    links: [{ label: 'View poster ↗', href: 'https://www.srmist.edu.in/wp-content/uploads/2026/02/viola-Large.png' }],
+    real: true
+  },
+
+
+  'office-gana': {
     category: 'SOCIAL MEDIA CREATIVE · SRMIST',
     title: 'Office Gana',
     summary: 'A social media creative designed for SRMIST Milan — part of a series of event promotion posts for the cultural fest. Office Gana uses a structured editorial layout to present the event with clarity and visual consistency.',
