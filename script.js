@@ -44,7 +44,7 @@ const projectDetails = {
     summary: 'An Instagram social media creative designed for engagement and visual impact on the feed.',
     objective: 'Create a visually compelling post that communicates the message clearly and stops the scroll on a busy Instagram feed.',
     approach: 'Bold composition with strong typographic hierarchy and a consistent colour palette. Designed for portrait format at 1544×1392 for maximum feed presence.',
-    links: [{ label: 'View on Instagram ↗', href: 'https://www.instagram.com/p/CwztojtPZJr/' }],
+    links: [{ label: 'View on SRMIST ↗', href: 'https://www.srmist.edu.in/wp-content/uploads/2026/02/viola-Large.png' }],
     real: true
   },
 
